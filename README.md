@@ -6,12 +6,34 @@
   <strong>24-Week Intensive Specialization | 250+ Hours of Practical Security Engineering</strong>
 </p>
 
+<!-- Skill Matrix: All 25 Required Competencies -->
 <p align="center">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hacking-CC0000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Networking-0066CC?style=flat-square" />
+  <img src="https://img.shields.io/badge/Web%20Apps-0055A4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Operating%20Systems-333333?style=flat-square" />
+  <br />
+  <img src="https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Malware-6B4C9A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Disaster%20Recovery-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Incident%20Response-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/IOC-lightgrey?style=flat-square" />
+  <img src="https://img.shields.io/badge/Threat%20Intelligence-blue?style=flat-square" />
+  <br />
+  <img src="https://img.shields.io/badge/Metasploit-CF0A2C?style=flat-square&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hydra-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/XSS-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Penetration%20Testing-CC0000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Nmap-0066CC?style=flat-square&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nessus-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=kali-linux&logoColor=white" />
+  <br />
 </p>
 
 </div>
@@ -19,7 +41,9 @@
 ---
 
 ## 🎓 Master Syllabus & Module Architecture (M0-M6)
-Questo repository costituisce l'intero corpus tecnico e metodologico sviluppato durante il **Master in Cybersecurity** presso l'**EPICODE Institute of Technology**. Il percorso si è focalizzato sulla trasformazione della teoria accademica in **Actionable Intelligence**, integrando metodologie offensive d'élite, operazioni SOC e Penetration Tester avanzate e l'automazione tramite **Artificial Intelligence**.
+Questo repository costituisce l'intero corpus tecnico e metodologico sviluppato durante il **Master in Cybersecurity** presso l'**EPICODE Institute of Technology**. 
+
+Il percorso si è focalizzato sulla trasformazione della teoria accademica in **Actionable Intelligence**, integrando metodologie offensive d'élite, operazioni SOC e Penetration Tester avanzate e l'automazione tramite **Artificial Intelligence**.
 
 I progetti qui contenuti documentano un approccio **metodico e analitico** alla rilevazione e exploitation di vulnerabilità critiche in scenari mission-critical.
 
