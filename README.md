@@ -19,9 +19,9 @@
 ---
 
 ## 🎓 Master Syllabus & Module Architecture (M0-M6)
-Questo repository costituisce l'intero corpus tecnico e metodologico sviluppato durante il **Master in Cybersecurity** presso l'**EPICODE Institute of Technology**. Il percorso si è focalizzato sulla trasformazione della teoria accademica in **Actionable Intelligence**, integrando metodologie offensive d'élite, operazioni SOC avanzate e l'automazione tramite **Artificial Intelligence**.
+Questo repository costituisce l'intero corpus tecnico e metodologico sviluppato durante il **Master in Cybersecurity** presso l'**EPICODE Institute of Technology**. Il percorso si è focalizzato sulla trasformazione della teoria accademica in **Actionable Intelligence**, integrando metodologie offensive d'élite, operazioni SOC e Penetration Tester avanzate e l'automazione tramite **Artificial Intelligence**.
 
-I progetti qui contenuti documentano un approccio **metodico e analitico** alla risoluzione di vulnerabilità critiche in scenari mission-critical.
+I progetti qui contenuti documentano un approccio **metodico e analitico** alla rilevazione e exploitation di vulnerabilità critiche in scenari mission-critical.
 
 ### 🏛️ M0: Cybersecurity Basics
 *   **Foundations**: Introduzione ai concetti di sicurezza, etica dell'Hacking e analisi delle minacce globali.
