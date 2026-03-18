@@ -12,39 +12,46 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-CF0A2C?style=flat-square&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" />
 </p>
 
 </div>
 
 ---
 
-## 🎓 Master Syllabus & Learning Path (24 Weeks)
-Questo repository documenta l'intero corpus tecnico di 6 mesi di formazione avanzata, workshop e progetti accademici. Il percorso è strutturato per trasformare la teoria in **Offensive & Defensive Intelligence** tramite scenari reali.
+## 🎓 Master Syllabus & Module Architecture (M0-M6)
+Questo repository documenta l'intero corpus tecnico del Master intensivo conclusosi il **15 Gennaio 2026**. Il percorso è strutturato per integrare metodologie offensive, difensive e l'automazione tramite **Artificial Intelligence**.
 
-### 🏛️ Phase 1: Networking & Systems Foundation (Week 1-7)
-*   **Ethical Hacking Intro**: Fondamenti, metodologia e introduzione ai sistemi operativi.
-*   **Advanced Networking**: Protocolli TCP/IP, Routing, Switching, Network Analysis (W1-W3).
-*   **Virtual Environments**: Configurazione di laboratori complessi (pfSense, Wazuh, DVWA).
-*   **Secure Coding**: Sviluppo di logica e automazione in **C** e **Python** (W5-W7).
+### 🏛️ M0: Cybersecurity Basics
+*   **Foundations**: Introduzione ai concetti di sicurezza, etica dell'Hacking e analisi delle minacce globali.
 
-### ⚔️ Phase 2: Penetration Testing & Web Security (Week 8-17)
-*   **Web Application Hacking**: Deep dive su **XSS**, **SQL Injection**, **CSRF** e OWASP Top 10 (W12-W13).
-*   **Information Gathering**: Enumerazione servizi, scansione avanzata (**Nmap**, **Nessus**) e Vulnerability Assessment.
-*   **Exploitation Frameworks**: Utilizzo professionale di **Metasploit** e attacchi brute-force con **Hydra**.
-*   **System & Network Attacks**: Compromissione Windows/Linux, privilegi e consolidamento.
+### 🏛️ M1: Hacking / Networking / Windows
+*   **Networking Mastery**: Protocolli TCP/IP, Routing, Switching e Network Analysis.
+*   **Windows Security**: Amministrazione sicura, NTFS permissions e Active Directory fundamentals.
+*   **Hacking Methodology**: Primi workshop pratici e analisi dei vettori d'attacco infrastrutturali.
 
-### 🛡️ Phase 3: Blue Team, Ops & Intelligence (Week 18-20)
-*   **Strategic Resilience**: **BCP**, **DRP**, Business Impact Analysis (**BIA**) e Disaster Recovery.
-*   **Security Operations**: Monitoraggio con **SIEM (Splunk)**, Incident Response Plan e SOC/SOAR workflows.
-*   **Threat Intelligence**: Analisi del panorama delle minacce, **IOC** Extraction e OSINT.
+### 💻 M2: Kali / Python / C / WebApps / Linux
+*   **Environment**: Utilizzo professionale di **Kali Linux** come suite d'attacco principale.
+*   **Secure Coding**: Sviluppo di automazione e logica di sicurezza in **C** e **Python**.
+*   **Linux Security**: Hardening e gestione dei sistemi Linux-based (**Open Source Systems**).
+*   **WebApps Fundamentals**: Architetture web e introduzione alla sicurezza applicativa.
 
-### 🤖 Phase 4: AI Security & Advanced Malware Analysis (Week 21-24)
-*   **AI in Cyber**: Integrazione di **LLM**, **Prompt Engineering** e automazione dei processi d'audit.
-*   **Malware Analysis**: Analisi statica e dinamica (Static/Dynamic Analysis) di artefatti malevoli.
-*   **Infrastructure Defense**: Windows Server 2022, Active Directory Security e Social Engineering tramite IA.
-*   **Cisco Academy Training**: Preparazione finale e certificazione tecnologica.
+### ⚔️ M3: Penetration Testing / Nmap / Nessus
+*   **Information Gathering**: Tecniche di ricognizione host-based e network-based.
+*   **Vulnerability Assessment**: Scansione avanzata tramite **Nmap** (Full-spectrum 65,535 ports) e mapping CVE tramite **Nessus**.
+
+### 🕸️ M4: Metasploit / SQL / Hydra / XSS
+*   **Exploitation**: Utilizzo professionale di **Metasploit Framework** e attacchi brute-force con **Hydra**.
+*   **Web Hacking**: Exploitation di vulnerabilità **XSS (Cross-Site Scripting)** e **SQL Injection**.
+
+### 🛡️ M5: Disaster Recovery / Threat Intelligence / Incident Response / IOC
+*   **Resilience**: Strategie di **Disaster Recovery**, Business Continuity e Business Impact Analysis (**BIA**).
+*   **Intelligence**: Estrazione di **IOC (Indicators of Compromise)** e profiling delle minacce (**Threat Intelligence**).
+*   **Operations**: Implementazione di **Incident Response** Plans e gestione degli incidenti NIST-compliant.
+
+### 🤖 M6: Splunk / AI / Malware
+*   **Security Monitoring**: Configurazione e analisi dei dati tramite **Splunk** (SIEM/SOC flows).
+*   **Next-Gen Security**: Integrazione di **Intelligenza Artificiale** e Prompt Engineering per l'automazione della difesa.
+*   **Malware Analysis**: Analisi statica e dinamica di artefatti malevoli (Case study: **Agent Tesla**).
 
 ---
 
@@ -52,28 +59,23 @@ Questo repository documenta l'intero corpus tecnico di 6 mesi di formazione avan
 
 | Domain | Technologies & Skills |
 |--------|----------------------|
-| **Operating Systems** | Windows (Server 2022, Desktop), Linux (Kali, Ubuntu), OS Security |
-| **Networking** | TCP/IP Stack, pfSense, Network Analysis, Routing & Switching |
+| **Operating Systems** | Windows (Server 2022, Desktop), Linux (Kali, Ubuntu, Debian) |
+| **Networking** | Networking Protocol Analysis, TCP/IP, Netcat, pfSense, Security Architecture |
 | **Offensive Tools** | Metasploit, Nmap, Nessus, Hydra, Burp Suite, SQLMap, Gophish |
-| **Defensive Tools** | Splunk, Wazuh, SIEM, SOAR, Incident Response, Malware Analysis |
-| **Intelligence** | Threat Intelligence, OSINT, IOC Extraction, Dark Web Research |
-| **Dev & AI** | Python, C, AI Prompt Engineering, GitHub Copilot, Codeium |
-| **Web Security** | XSS, SQLi, CSRF, API Testing, Web App Auditing (DVWA) |
-| **Strategy** | Business Continuity, Disaster Recovery, Backup, ISO 27001 Analysis |
+| **Defensive Tools** | Splunk, SIEM Engineering, Incident Response, Disaster Recovery |
+| **Intelligence** | Threat Intelligence, IOC Extraction, OSINT, Malware Analysis |
+| **Dev & AI** | Python, C, AI Prompt Engineering, GitHub Copilot, Cybersecurity Automation |
+| **Web Security** | WebApps Auditing, XSS, SQL Injection, CSRF, DVWA scenarios |
 
 ---
 
 ## ⚖️ Legal Disclaimer
 Tutto il materiale contenuto in questo repository è stato creato durante sessioni di laboratorio autorizzate nell'ambito del Master EPICODE. I test sono stati eseguiti esclusivamente su macchine virtuali isolate (Rules of Engagement). 
 
-**This software/documentation is proprietary.** © 2026 M6D6R6.
+*This software/documentation is proprietary.* © 2026 M6D6R6.
 
 ---
 
 <p align="center">
-  Grazie di aver visitato questo archivio accademico.
-</p>
-
-<p align="right">
-  <i>"Forged in adversarial fire, tempered by education."</i>
+  Grazie di aver visitato questo archivio accademico professionale.
 </p>
