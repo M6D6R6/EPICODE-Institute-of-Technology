@@ -3,9 +3,9 @@
 # <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Master+Cybersecurity+Analyst;EPICODE+Institute+of+Technology;" alt="EPICODE Master Title" />
 
 <p align="center">
-  <strong>Master Intensive Specialized Advanced Training Course | 250 Hours</strong><br />
-  <em>Practical workshops, real projects, and group activities.</em>
+  <strong>An intensive, advanced, specialized training program lasting more than 250 hours, including practical workshops, real-world projects, and group activities.</strong>
 </p>
+
 
 <!-- Skill Matrix: All 25 Required Competencies -->
 <p align="center">
