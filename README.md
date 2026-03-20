@@ -3,7 +3,7 @@
 # <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Master+Cybersecurity+Analyst;EPICODE+Institute+of+Technology;" alt="EPICODE Master Title" />
 
 <p align="center">
-  <strong>An intensive, advanced, specialized training program lasting more than 250 hours, including practical workshops, real-world projects, and group activities.</strong>
+  <strong>An intensive master's program in advanced specialized training lasting more than 250 hours, a university-level course that includes practical workshops, real-world projects, and group activities.</strong>
 </p>
 
 
