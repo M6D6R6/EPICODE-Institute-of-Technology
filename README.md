@@ -3,7 +3,8 @@
 # <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Master+Cybersecurity+Analyst;EPICODE+Institute+of+Technology;" alt="EPICODE Master Title" />
 
 <p align="center">
-  <strong>24-Week Intensive Specialization | 250+ Hours of Practical Security Engineering</strong>
+  <strong>Master Intensive Specialized Advanced Training Course | 250 Hours</strong><br />
+  <em>Practical workshops, real projects, and group activities.</em>
 </p>
 
 <!-- Skill Matrix: All 25 Required Competencies -->
