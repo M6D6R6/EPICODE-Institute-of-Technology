@@ -35,6 +35,14 @@
   <img src="https://img.shields.io/badge/Nessus-000000?style=flat-square" />
   <img src="https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=kali-linux&logoColor=white" />
   <br />
+  <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/SIEM-00A300?style=flat-square&logo=elasticsearch&logoColor=white" />
+<img src="https://img.shields.io/badge/Assessment-FFA500?style=flat-square&logo=check-circle&logoColor=white" />
+<img src="https://img.shields.io/badge/Keylogger-8B0000?style=flat-square&logo=keyboard&logoColor=white" />
+<img src="https://img.shields.io/badge/SOC-0066CC?style=flat-square&logo=shield&logoColor=white" />
+<img src="https://img.shields.io/badge/Backdoor-FF4500?style=flat-square&logo=door-open&logoColor=white" />
+<img src="https://img.shields.io/badge/Advanced%20Malware%20Analysis-6B4C9A?style=flat-square&logo=ghidra&logoColor=white" />
+<img src="https://img.shields.io/badge/Reverse%20Engineering-9932CC?style=flat-square&logo=ghidra&logoColor=white" />
 </p>
 
 </div>
